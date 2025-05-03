@@ -35,8 +35,6 @@ Implement advanced security measures, detect threats in real-time, and secure AP
 ---
 
 ## 📂 Folder Contents:
-- `fail2ban-config/` – Fail2Ban config files and logs
-- `api-security-demo/` – Node.js API with CORS, rate limiting, and OAuth
 - `screenshots/` – Setup screenshots
 - `report.pdf` – Summary of implementations and testing
 
